@@ -10,7 +10,7 @@ namespace MD5Helper
     {
         public string CalcMD5()
         {
-            return "";
+            return "CalcMD5";
         }
     }
 }
